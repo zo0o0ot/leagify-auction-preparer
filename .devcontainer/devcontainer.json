@@ -12,9 +12,10 @@
 		// Configure properties specific to VS Code.
 		"vscode": {
 			"extensions": [
-				"GitHub.github-vscode-theme", // Optional. Codespace IDE theming.
-				"ms-dotnettools.csharp", // Optional. Helpful for C# development
-				"ms-dotnettools.dotnet-interactive-vscode" // Polyglot Notebooks. Required
+				"GitHub.github-vscode-theme",
+				"ms-dotnettools.csharp",
+				"ms-dotnettools.dotnet-interactive-vscode",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	},
